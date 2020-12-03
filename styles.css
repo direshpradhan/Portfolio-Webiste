@@ -95,6 +95,9 @@ a:hover {
     padding: 2rem;
     padding-top: 5rem;
 }
+.hero p {
+    text-align: center;
+}
 
 .hero .hero-img {
     max-width: 350px;
@@ -148,4 +151,11 @@ a:hover {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+.blog-content {
+    max-width: 720px;
+    margin: 2rem auto;
+    font-size: large;
+    word-spacing: 4px;
 }
